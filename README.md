@@ -14,3 +14,7 @@ My Development Notes to Remember for React Native
 ## Run the Build Output Release Version
 
 `react-native run-android --variant=release`
+
+## react-native run-android equal command
+
+`cd android && ./gradlew installDebug`
