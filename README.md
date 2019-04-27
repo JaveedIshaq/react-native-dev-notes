@@ -18,3 +18,6 @@ My Development Notes to Remember for React Native
 ## react-native run-android equal command
 
 `cd android && ./gradlew installDebug`
+
+## To skip Chromium Dowload on npm install
+`npm config set puppeteer_skip_chromium_download true -g`
